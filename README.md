@@ -38,7 +38,7 @@
  
  # 2. Run the app in docker
  ```
- cd spring-security-bookstore
+ cd spring-security-example
  
  mvn clean install
  
